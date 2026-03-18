@@ -26,7 +26,7 @@ Key findings from the bar coupon analysis:
 
 ### Coffee House Coupons (Independent Investigation)
 
-**Acceptance rate: ~50%** (highest among all coupon types)
+**Acceptance rate: ~50%** (highest among the coupon types analyzed")
 
 Key findings:
 
